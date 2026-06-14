@@ -5,7 +5,12 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_13.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_6.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_9.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_9.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_mahrez_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_mahrez_10.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_mahrez_11.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_mahrez_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Algeria/riyad_mahrez_9.jpg"
     ]
   },
   "Argentina": {
@@ -21,12 +26,19 @@
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/martin_4.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/mathew_5.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/mathew_7.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/mathew_7.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/mathew_ryan_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/mathew_ryan_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Australia/mathew_ryan_7.jpg"
     ]
   },
   "Austria": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/marcel_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/david_alaba_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/david_alaba_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/david_alaba_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/david_alaba_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/david_alaba_9.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/marcel_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/marcel_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Austria/marcel_4.jpg",
@@ -44,18 +56,18 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Belgium/kevin_8.jpg"
     ]
   },
-  "Bosnia": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia/edin_1.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia/edin_1.jpg"
-    ]
-  },
   "Bosnia & Herzegovina": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_3.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_7.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Bosnia%20%26%20Herzegovina/edin_dzeko_9.jpg"
     ]
   },
   "Brazil": {
@@ -70,12 +82,6 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Brazil/vinicius_9.jpg"
     ]
   },
-  "Cabo_Verde": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cabo_Verde/julio_4.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cabo_Verde/julio_4.jpg"
-    ]
-  },
   "Canada": {
     "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Canada/alphonso_davies_1.jpg",
     "fotos": [
@@ -85,11 +91,13 @@
     ]
   },
   "Cape Verde": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/ryan_mendes_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/julio_4.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/julio_4.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/ryan_mendes_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/ryan_mendes_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/ryan_mendes_3.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/ryan_mendes_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cape%20Verde/ryan_mendes_4.jpg"
     ]
   },
   "Colombia": {
@@ -110,34 +118,36 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Croatia/luka_9.jpg"
     ]
   },
+  "Curaçao": {
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cura%C3%A7ao/tahith_chong_3.jpg",
+    "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cura%C3%A7ao/tahith_chong_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cura%C3%A7ao/tahith_chong_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cura%C3%A7ao/tahith_chong_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Cura%C3%A7ao/tahith_chong_7.jpg"
+    ]
+  },
   "Czech Republic": {
     "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/patrik_schick_1.jpg",
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/patrik_schick_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/patrik_schick_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/patrik_schick_3.jpg"
-    ]
-  },
-  "Czechia": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czechia/tomas_1.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czechia/tomas_1.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czechia/tomas_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czechia/tomas_3.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/patrik_schick_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/tomas_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/tomas_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Czech%20Republic/tomas_3.jpg"
     ]
   },
   "DR Congo": {
     "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_1.jpg",
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_11.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_3.jpg"
-    ]
-  },
-  "DR_Congo": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR_Congo/chancel_12.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR_Congo/chancel_12.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/cedric_bakambu_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/DR%20Congo/chancel_12.jpg"
     ]
   },
   "Ecuador": {
@@ -153,7 +163,14 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_5.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_6.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_8.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_10.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_12.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Egypt/mohamed_salah_9.jpg"
     ]
   },
   "England": {
@@ -182,8 +199,14 @@
     "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_1.jpg",
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_10.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_12.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_3.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ghana/mohammed_kudus_7.jpg"
     ]
   },
   "Haiti": {
@@ -195,8 +218,13 @@
     ]
   },
   "Iran": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/sardar_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/mehdi_taremi_11.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/mehdi_taremi_11.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/mehdi_taremi_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/mehdi_taremi_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/mehdi_taremi_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/mehdi_taremi_9.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/sardar_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/sardar_3.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iran/sardar_8.jpg"
@@ -207,25 +235,28 @@
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iraq/aymen_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iraq/aymen_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iraq/aymen_hussein_12.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iraq/aymen_hussein_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iraq/aymen_hussein_4.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Iraq/mohanad_4.jpg"
     ]
   },
   "Ivory Coast": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_haller_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_10.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_7.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_9.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_haller_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_haller_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_haller_3.jpg"
-    ]
-  },
-  "Ivory_Coast": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory_Coast/sebastien_1.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory_Coast/sebastien_1.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory_Coast/sebastien_10.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory_Coast/sebastien_7.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory_Coast/sebastien_8.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory_Coast/sebastien_9.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/sebastien_haller_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/wilfried_zaha_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/wilfried_zaha_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/wilfried_zaha_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/wilfried_zaha_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Ivory%20Coast/wilfried_zaha_6.jpg"
     ]
   },
   "Japan": {
@@ -238,29 +269,15 @@
     ]
   },
   "Jordan": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/yazan_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/mousa_al-tamari_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/mousa_al-tamari_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/mousa_al-tamari_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/mousa_al-tamari_3.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/yazan_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/yazan_3.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/yazan_8.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Jordan/yazan_9.jpg"
-    ]
-  },
-  "Korea_Republic": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/Korea_Republic__son_4.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/Korea_Republic__son_4.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/Korea_Republic__son_5.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_1.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_10.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_11.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_13.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_14.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_4.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_5.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_6.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_7.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Korea_Republic/son_8.jpg"
     ]
   },
   "Mexico": {
@@ -295,7 +312,8 @@
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/New%20Zealand/chris_wood_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/New%20Zealand/chris_wood_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/New%20Zealand/chris_wood_3.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/New%20Zealand/chris_wood_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/New%20Zealand/sarpreet_singh_10.jpg"
     ]
   },
   "Norway": {
@@ -305,19 +323,31 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_3.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_4.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_5.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_haaland_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_haaland_11.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_haaland_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Norway/erling_haaland_6.jpg"
     ]
   },
   "Panama": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/roberto_2.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/jose_fajardo_2.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/jose_fajardo_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/jose_fajardo_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/jose_fajardo_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/jose_fajardo_5.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/roberto_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Panama/rolando_4.jpg"
     ]
   },
   "Paraguay": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/miguel_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/julio_enciso_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/julio_enciso_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/julio_enciso_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/julio_enciso_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/julio_enciso_9.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/miguel_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Paraguay/miguel_2.jpg"
     ]
@@ -335,25 +365,31 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/akram_3.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/akram_4.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/akram_5.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/akram_9.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/akram_9.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/almoez_ali_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/almoez_ali_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/almoez_ali_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Qatar/almoez_ali_8.jpg"
     ]
   },
   "Saudi Arabia": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_15.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_7.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_9.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_10.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_3.jpg"
-    ]
-  },
-  "Saudi_Arabia": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi_Arabia/salem_1.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi_Arabia/salem_1.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi_Arabia/salem_15.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi_Arabia/salem_5.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi_Arabia/salem_7.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi_Arabia/salem_9.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_7.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Saudi%20Arabia/salem_al-dawsari_9.jpg"
     ]
   },
   "Scotland": {
@@ -362,7 +398,13 @@
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andrew_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andrew_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andrew_3.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andrew_8.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andrew_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andy_robertson_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andy_robertson_10.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andy_robertson_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andy_robertson_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andy_robertson_8.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Scotland/andy_robertson_9.jpg"
     ]
   },
   "Senegal": {
@@ -376,24 +418,31 @@
     ]
   },
   "South Africa": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Africa/percy_tau_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Africa/percy_2.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Africa/percy_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Africa/percy_tau_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Africa/percy_tau_2.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Africa/percy_tau_3.jpg"
     ]
   },
   "South Korea": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_heung-min_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/Korea_Republic__son_4.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/Korea_Republic__son_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/Korea_Republic__son_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_10.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_11.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_13.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_14.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_7.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_8.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_heung-min_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South%20Korea/son_heung-min_2.jpg"
-    ]
-  },
-  "South_Africa": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South_Africa/percy_2.jpg",
-    "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/South_Africa/percy_2.jpg"
     ]
   },
   "Spain": {
@@ -411,6 +460,10 @@
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/alexander_3.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/alexander_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/alexander_isak_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/alexander_isak_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/alexander_isak_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/alexander_isak_9.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/viktor_13.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/viktor_15.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Sweden/viktor_2.jpg",
@@ -426,18 +479,28 @@
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_2.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_3.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Switzerland/granit_xhaka_6.jpg"
     ]
   },
   "Tunisia": {
     "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Tunisia/wahbi_2.jpg",
     "fotos": [
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Tunisia/wahbi_2.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Tunisia/wahbi_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Tunisia/wahbi_khazri_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Tunisia/wahbi_khazri_3.jpg"
     ]
   },
   "Turkey": {
-    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/hakan_1.jpg",
+    "foto": "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/arda_guler_1.jpg",
     "fotos": [
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/arda_guler_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/arda_guler_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/arda_guler_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/arda_guler_5.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/arda_guler_6.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/hakan_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/hakan_4.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Turkey/hakan_5.jpg",
@@ -466,7 +529,12 @@
     "fotos": [
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_1.jpg",
       "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_4.jpg",
-      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_6.jpg"
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_6.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_shomurodov_1.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_shomurodov_2.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_shomurodov_3.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_shomurodov_4.jpg",
+      "https://cdn.jsdelivr.net/gh/Mathias-Toledo/mundial26-fotos@main/player-photos/Uzbekistan/eldor_shomurodov_5.jpg"
     ]
   }
 }
